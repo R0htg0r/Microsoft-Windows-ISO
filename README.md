@@ -1,6 +1,3 @@
-# Microsoft Windows ISO
-
-
 # Microsoft Console
 <img src="images/delete.png"></img>
 
@@ -22,5 +19,5 @@ Essa aplicação foi desenvolvida no intuito de ajuda-los, baixar as versões do
   * Não disponível
   
 # Discord
-<a href="https://discord.gg/CHsnjZB3Ec">Junta-se ao Discord.</a>
+<a href="https://discord.gg/CHsnjZB3Ec" target="_blank">Junta-se ao Discord.</a>
  
