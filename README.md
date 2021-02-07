@@ -1,7 +1,7 @@
 # Descrição
 Essa aplicação foi desenvolvida no intuito de ajuda-los, baixar as versões do Windows 7 original, vindo direto dos servidores da Microsoft.
 
-# Versões:
+# Registro de Atualizações:
 2.0.5
   * Adicionado layout de pastas para organizar o material.
   * Adicionado a função de pausar o download.
@@ -12,3 +12,6 @@ Essa aplicação foi desenvolvida no intuito de ajuda-los, baixar as versões do
   
 1.0.0
   Não disponível
+
+# Microsoft Windows ISO
+<img src="images/delete.png"></img>
