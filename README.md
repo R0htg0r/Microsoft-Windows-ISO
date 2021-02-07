@@ -2,4 +2,4 @@
 Central de Download criado para baixar as versões do Windows 7 direto da Microsoft.
 
 
-![text alt]("images/delete.png")
+![alt text](images/delete.png)
