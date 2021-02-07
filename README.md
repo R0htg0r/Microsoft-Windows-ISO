@@ -1,6 +1,5 @@
 # Microsoft Windows ISO
-A versão 1.0.0 está disponível dentro da pasta (models/openSource).<br>
-<img src="images/delete.png"></img>
+&nbsp; A versão 1.0.0 está disponível dentro da pasta (models/openSource).<br>
 
 # Descrição
 Essa aplicação foi desenvolvida no intuito de ajuda-los, baixar as versões do Windows 7 original, vindo direto dos servidores da Microsoft.
