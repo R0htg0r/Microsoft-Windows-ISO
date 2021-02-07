@@ -1,5 +1,5 @@
 # Microsoft Windows ISO
-<img src="images/delete.png"></img>
+![alt text](images/delete.png)
 
 # Descrição
 Essa aplicação foi desenvolvida no intuito de ajuda-los, baixar as versões do Windows 7 original, vindo direto dos servidores da Microsoft.
