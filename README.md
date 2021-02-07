@@ -1,5 +1,5 @@
 # Microsoft Console
-<img src="images/delete.png"></img>
+<img src="images/demo.png"></img>
 
 # Descrição
 A versão 1.0.0 está disponível dentro da pasta (models/openSource).
