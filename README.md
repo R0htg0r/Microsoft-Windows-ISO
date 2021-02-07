@@ -1,5 +1,6 @@
 # Microsoft Windows ISO
-![alt text](images/delete.png)
+A versão 1.0.0 está disponível dentro da pasta (models/openSource).
+<img src="images/delete.png" />
 
 # Descrição
 Essa aplicação foi desenvolvida no intuito de ajuda-los, baixar as versões do Windows 7 original, vindo direto dos servidores da Microsoft.
@@ -14,4 +15,8 @@ Essa aplicação foi desenvolvida no intuito de ajuda-los, baixar as versões do
   * Código fonte refeito(melhorado).
   
 1.0.0
-  Não disponível
+  * Não disponível
+  
+# Discord
+<a href="https://discord.gg/CHsnjZB3Ec">Junta-se ao Discord.</a>
+ 
