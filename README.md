@@ -17,7 +17,3 @@ Essa aplicação foi desenvolvida no intuito de ajuda-los, baixar as versões do
   
 1.0.0
   * Não disponível
-  
-# Discord
-<a href="https://discord.gg/CHsnjZB3Ec" target="_blank">Junta-se ao Discord.</a>
- 
